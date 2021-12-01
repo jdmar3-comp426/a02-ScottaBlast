@@ -1,0 +1,23 @@
+{
+  "name": "a02",
+  "version": "1.0.0",
+  "description": "my a02 framework assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmar3-comp426/a02-ScottaBlast.git"
+  },
+  "author": "scott amaranto",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a02-ScottaBlast/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a02-ScottaBlast#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.5",
+    "bulma": "^0.9.3"
+  }
+}
